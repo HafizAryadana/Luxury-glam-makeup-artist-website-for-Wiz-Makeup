@@ -30,7 +30,7 @@ export default function WizMakeupLandingPage() {
 
           {/* LOGO */}
           <img
-            src="/wiz.png"
+            src="/WIZ.png"
             alt="WizMakeup Logo"
             className="w-[320px] md:w-[520px] mx-auto object-contain mb-10"
           />
