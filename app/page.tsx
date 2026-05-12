@@ -43,7 +43,7 @@ export default function WizMakeupLandingPage() {
 
           <div className="flex flex-wrap gap-4 justify-center">
             <a
-              href="https://wa.me/6281904881511"
+              href="https://wa.me/6281904881511?text=Halo%20WizMakeup,%20boleh%20saya%20minta%20pricelist%20makeup"
               className="px-8 py-3 rounded-2xl bg-[#b08b57] text-white shadow-lg hover:scale-105 transition"
             >
               Book via WhatsApp
@@ -426,7 +426,7 @@ export default function WizMakeupLandingPage() {
 
           <div className="flex flex-wrap justify-center gap-4">
             <a
-              href="https://wa.me/6281904881511"
+              href="https://wa.me/6281904881511?text=Halo%20WizMakeup,%20boleh%20saya%20minta%20pricelist%20makeup"
               className="px-8 py-3 rounded-2xl bg-[#b08b57] text-white shadow-lg hover:scale-105 transition"
             >
               WhatsApp
@@ -437,7 +437,7 @@ export default function WizMakeupLandingPage() {
       </section>
       {/* STICKY WHATSAPP */}
 <a
-  href="https://wa.me/6281904881511"
+  href="https://wa.me/6281904881511?text=Halo%20WizMakeup,%20boleh%20saya%20minta%20pricelist%20makeup"
   target="_blank"
   rel="noopener noreferrer"
   className="fixed bottom-6 right-6 z-50 hover:scale-110 transition duration-300"
