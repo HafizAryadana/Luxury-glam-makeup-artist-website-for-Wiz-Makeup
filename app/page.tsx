@@ -70,7 +70,7 @@ export default function WizMakeupLandingPage() {
       >
         <div>
           <div className="aspect-[16/11] rounded-3xl bg-[#1a120a] border border-[#3a2a18] shadow-2xl relative overflow-hidden">
-            <div className="absolute inset-0 bg-[url('/serti.png')] bg-contain bg-center bg-no-repeat hover:scale-105 transition duration-700"></div>
+           <div className="absolute inset-0 bg-[url('/certificate.png')] bg-contain bg-center bg-no-repeat hover:scale-105 transition duration-700"></div>
           </div>
         </div>
 
