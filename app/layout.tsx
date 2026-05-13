@@ -12,9 +12,11 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "Wiz Makeup | Luxury Glam Makeup Artist",
-  description: "Professional makeup services for graduation, engagement, wedding, and special events.",
+export const metadata = {
+  title: "Wiz Makeup | Luxury Glam Makeup",
+  icons: {
+    icon: "/WIZ.png",
+  },
 };
 
 export default function RootLayout({
