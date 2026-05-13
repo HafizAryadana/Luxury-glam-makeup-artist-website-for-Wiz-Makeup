@@ -69,8 +69,8 @@ export default function WizMakeupLandingPage() {
         className="px-6 py-24 max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center"
       >
         <div>
-          <div className="aspect-[4/5] rounded-3xl bg-[#1a120a] border border-[#3a2a18] shadow-2xl relative overflow-hidden">
-            <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1524504388940-b1c1722653e1?q=80&w=1200&auto=format&fit=crop')] bg-cover bg-center hover:scale-105 transition duration-700"></div>
+          <div className="aspect-[16/11] rounded-3xl bg-[#1a120a] border border-[#3a2a18] shadow-2xl relative overflow-hidden">
+            <div className="absolute inset-0 bg-[url('/Mb-Winda.PNG')] bg-contain bg-center bg-no-repeat hover:scale-105 transition duration-700"></div>
           </div>
         </div>
 
@@ -266,10 +266,10 @@ export default function WizMakeupLandingPage() {
             {/* FAQ 3 */}
             <div className="bg-[#1a120a] border border-[#3a2a18] rounded-3xl p-6">
               <h3 className="text-xl text-[#b08b57] mb-2">
-                Berapa DP untuk booking?
+                Bagaimana cara melakukan booking untuk jasa makeup?
               </h3>
               <p className="text-[#d8c3a5] leading-relaxed">
-                Booking dilakukan dengan DP terlebih dahulu untuk mengamankan jadwal makeup Anda.
+                Booking dilakukan dengan membayar DP terlebih dahulu untuk mengamankan jadwal makeup Anda.
               </p>
             </div>
 
